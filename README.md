@@ -18,5 +18,5 @@ Questo progetto è una replica della sezione di notizie di Hacker News, utilizza
 - **Lodash** (per la gestione dei dati)
 
 
-## Link per visualizzare l'app : https://scantalupo.github.io/Hacker-News/
+
 
